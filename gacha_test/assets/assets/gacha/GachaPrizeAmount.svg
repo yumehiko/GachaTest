@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fa0;
+        stroke-width: 48px;
+      }
+
+      .cls-2, .cls-4, .cls-3 {
+        font-family: ITCAvantGardePro-Bold, 'ITC Avant Garde Gothic Pro';
+        font-size: 128px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: #291d00;
+        stroke-width: 24px;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー_1">
+    <g>
+      <g>
+        <text class="cls-2" transform="translate(216.45 293.76)"><tspan x="0" y="0">1</tspan></text>
+        <text class="cls-3" transform="translate(216.45 293.76)"><tspan x="0" y="0">1</tspan></text>
+        <text class="cls-4" transform="translate(216.45 293.76)"><tspan x="0" y="0">1</tspan></text>
+      </g>
+      <rect class="cls-1" width="512" height="512"/>
+    </g>
+  </g>
+</svg>

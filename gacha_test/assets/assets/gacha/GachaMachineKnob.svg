@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-6 {
+        fill: #f0f0f0;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+
+      .cls-3 {
+        stroke: #1f1f1f;
+        stroke-width: 6px;
+      }
+    </style>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" x="8" y="32" width="64" height="16" rx="8" ry="8"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-1" x="8" y="32" width="64" height="16" rx="8" ry="8"/>
+    </clipPath>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー_1">
+    <g>
+      <rect class="cls-1" width="80" height="80"/>
+      <g>
+        <g>
+          <rect class="cls-3" x="8" y="32" width="64" height="16" rx="8" ry="8"/>
+          <g class="cls-4">
+            <g>
+              <path class="cls-3" d="M8,40c0-4.42,3.58-8,8-8h48"/>
+              <path class="cls-3" d="M8,40c0-4.42,3.58-8,8-8h48"/>
+            </g>
+          </g>
+        </g>
+        <g>
+          <rect class="cls-6" x="8" y="32" width="64" height="16" rx="8" ry="8"/>
+          <g class="cls-5">
+            <path class="cls-2" d="M8,40c0-4.42,3.58-8,8-8h48"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

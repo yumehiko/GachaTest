@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 197.12 81.91">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fa0;
+        stroke-width: 24px;
+      }
+
+      .cls-2, .cls-4, .cls-3 {
+        font-family: PA1GothicStdN-Bold-83pv-RKSJ-H, 'A P-OTF A1Gothic StdN';
+        font-size: 32px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: #291d00;
+        stroke-width: 12px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.14em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.15em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.12em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー_1">
+    <g>
+      <g>
+        <text class="cls-2" transform="translate(41.28 53.15)"><tspan class="cls-8" x="0" y="0">ポ</tspan><tspan class="cls-6" x="31.26" y="0">イ</tspan><tspan class="cls-5" x="58.59" y="0">ン</tspan><tspan class="cls-7" x="86.05" y="0">ト</tspan></text>
+        <text class="cls-3" transform="translate(41.28 53.15)"><tspan class="cls-8" x="0" y="0">ポ</tspan><tspan class="cls-6" x="31.26" y="0">イ</tspan><tspan class="cls-5" x="58.59" y="0">ン</tspan><tspan class="cls-7" x="86.05" y="0">ト</tspan></text>
+        <text class="cls-4" transform="translate(41.28 53.15)"><tspan class="cls-8" x="0" y="0">ポ</tspan><tspan class="cls-6" x="31.26" y="0">イ</tspan><tspan class="cls-5" x="58.59" y="0">ン</tspan><tspan class="cls-7" x="86.05" y="0">ト</tspan></text>
+      </g>
+      <rect class="cls-1" width="197.12" height="81.91"/>
+    </g>
+  </g>
+</svg>
