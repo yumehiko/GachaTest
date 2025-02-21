@@ -1,5 +1,3 @@
-// lib/gacha/gacha_prize_ball.dart
-
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
@@ -22,7 +20,7 @@ import '../utils/cancellation_token.dart';
   SplitAsync により上下に分離するアニメーションを実現します。
 */
 class GachaPrizeBall {
-  // 単位変換：1.0 単位 = 100 px
+  // 単位変換：1.0 単位 = 100.0 px
   static const double unitFactor = 100.0;
 
   // 全体のボール位置（単位）
