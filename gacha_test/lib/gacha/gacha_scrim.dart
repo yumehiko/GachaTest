@@ -1,5 +1,3 @@
-// lib/gacha/gacha_scrim.dart
-
 import 'dart:async';
 import 'package:flutter/material.dart';
 import '../utils/cancellation_token.dart';

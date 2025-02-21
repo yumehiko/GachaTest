@@ -1,5 +1,3 @@
-// lib/gacha/gacha_machine.dart
-
 import 'dart:async';
 import 'dart:math';
 import 'package:flutter/material.dart';

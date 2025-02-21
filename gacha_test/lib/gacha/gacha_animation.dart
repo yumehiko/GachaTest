@@ -1,5 +1,3 @@
-// lib/gacha/gacha_animation.dart
-
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'gacha_prize_get_button.dart';
